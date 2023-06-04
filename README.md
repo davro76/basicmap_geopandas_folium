@@ -1,1 +1,1 @@
-# basicmap_geopandas_folium
+This is a basic map using geopandas and folium
