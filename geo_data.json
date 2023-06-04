@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.935242, 40.730610]
+        },
+        "properties": {
+          "id": 1,
+          "name": "Point Feature",
+          "description": "This is an example of a GeoJSON point."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.958405, 40.800584],
+              [-73.949799, 40.796841],
+              [-73.973769, 40.764089],
+              [-73.981247, 40.768074],
+              [-73.958405, 40.800584]
+            ]
+          ]
+        },
+        "properties": {
+          "id": 2,
+          "name": "Polygon Feature",
+          "description": "This is an example of a GeoJSON polygon."
+        }
+      }
+    ]
+  }
+  
